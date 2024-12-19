@@ -1,0 +1,93 @@
+ADDRESS:
+Trilocale viale Stelvio 18, Zara, Milano
+
+Zona di Milano:
+cenisio-sarpi-isola
+
+SQFTS:
+95.0
+
+PURCHASE_PRICE:
+490000.0
+
+Prezzo/m²:
+€ 5,157.89
+
+Prezzo medio/m²:
+€ 3,388.00
+
+Delta % su prezzo zona:
+52.2%
+
+Prezzo teorico zona:
+€ 321,860.00
+
+Affitto medio/m²:
+9.13
+
+Rendita annua lorda:
+€ 10,408.20
+
+Rendita % annua lorda:
+2.1%
+
+Rendita % annua netta:
+1.2%
+
+Rendita_Annua_Airbnb:
+€ 31,798.39
+
+Numero_Annunci_Airbnb_Simili:
+113
+
+MONTHLY_MAINTENANCE:
+€ 200.00
+
+BEDROOMS:
+2
+
+BATHROOMS:
+1
+
+DESCRIPTION:
+Al quarto piano di un contesto signorile degli anni sessanta con ascensore e servizio di portineria, proponiamo in vendita ottimo tre locali da ristrutturare e personalizzare nelle finiture e nella distribuzione degli spazi. L'appartamento attualmente si compone di ingresso, soggiorno e cucina abitabile, due camere da letto e bagno finestrato. Sono presenti due balconi e il riscaldamento è centralizzato, mentre gli infissi sono in doppio vetro. L’unità immobiliare si trova in posizione ben servita dai mezzi di trasporto con le fermate M3 ed M5 Zara a pochi passi, oltre ad essere ubicata nelle immediate adiacenze del vivace e ricercato quartiere Isola. Completa la proprietà una cantina di pertinenza. Tutti i dati forniti nel presente annuncio non costituiscono elemento contrattuale, ma sono puramente indicativi.
+
+
+APPARTAMENTI SIMILI SU AIRBNB:
+========================================
+
+Appartamento 1:
+Nome: Il Sogno di Gioele
+Prezzo per Notte: € 125.00
+Occupancy Rate: 17.5%
+Rating: 4.76
+Link: https://www.airbnb.com/rooms/630790668608940057
+
+Appartamento 2:
+Nome: Stilicone 15 - Luxury apt. 3C
+Prezzo per Notte: € 122.00
+Occupancy Rate: 3.0%
+Rating: 5.0
+Link: https://www.airbnb.com/rooms/603443707939116170
+
+Appartamento 3:
+Nome: 2 minuiti da Stazione Garibaldi | Cozy - Wifi Free
+Prezzo per Notte: € 122.00
+Occupancy Rate: 98.4%
+Rating: 4.0
+Link: https://www.airbnb.com/rooms/1170908869459373060
+
+Appartamento 4:
+Nome: 45 Design Homes
+Prezzo per Notte: € 127.00
+Occupancy Rate: 82.5%
+Rating: 5.0
+Link: https://www.airbnb.com/rooms/852027747148178672
+
+Appartamento 5:
+Nome: Stilicone 15 - Luxury apt. 3D
+Prezzo per Notte: € 121.00
+Occupancy Rate: 4.4%
+Rating: 5.0
+Link: https://www.airbnb.com/rooms/603444270177515069
+
